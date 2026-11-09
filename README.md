@@ -1,6 +1,5 @@
 # 基于轻量化 YOLO 的交通场景目标检测模型对比与复现
-
-本项目为《图像处理与分析（计算机视觉）》研究生课程结课作业。项目基于 Ultralytics 框架，在 COCO128 微型数据集上完成了轻量化目标检测模型（YOLOv5nu、YOLOv8n）的基线对比，并在此基础上成功复现与改进了 **Ghost-CBAM-YOLOv8** 轻量化模型。
+项目基于 Ultralytics 框架，在 COCO128 微型数据集上完成了轻量化目标检测模型（YOLOv5nu、YOLOv8n）的基线对比，并在此基础上成功复现与改进了 **Ghost-CBAM-YOLOv8** 轻量化模型。
 
 ## 📁 仓库结构说明 (Repository Structure)
 
